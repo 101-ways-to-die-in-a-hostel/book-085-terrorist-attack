@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A budget traveler who changed his dinner reservation to save money ends up at the bombed restaurant instead of the expensive tourist spot he originally booked.",
     "long": ""
   },
   "death_type": "Terrorist Attack",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "He saved twenty euros. It cost him everything."
 }
